@@ -22,21 +22,21 @@ dan yang gajinya lebih besar dari rata-rata gaji semua karyawan
 
 1. Tampilkan data karyawan yang bekerja pada departemen yang sama dengan karyawan yang bernama Dika
 
-![1]ft/1.png
+![1](ft/1.png)
 
 2. Tampilkan data karyawan yang gajinya lebih besar dari rata-rata gaji semua  karyawan. urutkan menurun berdasarkan besaran gaji
 
-![2]ft/2.png
+![2](ft/2.png)
 
 3. Tampilkan nik dan nama karyawan untuk semua karyawan yang bekerja di  department yang sama dengan karyawan dengan nama yang mengandung  huruf 'K'.
 
-![3]ft/3.png
+![3](ft/3.png)
 
 4. Tampilkan data karyawan yang bekerja pada departemen yang ada di  kantor pusat.
 
-![4]ft/4.png
+![4](ft/4.png)
 
 5. Tampilkan nik dan nama karyawan untuk semua karyawan yang bekerja di department yang sama dengan karyawan dengan nama yang mengandung huruf 'K'
 dan yang gajinya lebih besar dari rata-rata gaji semua karyawan
 
-![5]ft/5.png
+![5](ft/5.png))
